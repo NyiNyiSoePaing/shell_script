@@ -1,2 +1,5 @@
 ### install 'oh my zsh'
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/NyiNyiSoePaing/shell_script/main/install_zsh.sh)"
+```
